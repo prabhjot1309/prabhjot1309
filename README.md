@@ -9,7 +9,7 @@
 ## 🔥 About Me
 
 - 🎓 Student at Punjabi University ,Patiala (CSE)
--  building a career in ** Data Science & AI/ML **
+-  building a career in **Data Science & AI/ML**
 - 💻 Passionate about creating real-world solutions with data
 - 🛠️ Currently working on projects like **Crime Rate Prediction**
 
